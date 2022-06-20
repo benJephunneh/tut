@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div className="">Hello world</div>
+  return (
+    <div className="h-screen w-screen flex flex-col">
+      <div className=""></div>
+      <div className=""></div>
+    </div>
 }
